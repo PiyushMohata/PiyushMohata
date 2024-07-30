@@ -2,7 +2,7 @@
 
 ## Hello Everyone 😁 
 
-I am currently a third year computer enginnering student gaining experience in MERN stack and Data Structures.
+I am currently a fourth year computer enginnering student gaining experience in MERN stack and Data Structures.
 
 <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=PiyushMohata&theme=dracula&column=4&margin-w=15&margin-h=15" alt="Apurva Sharma" /></a></p>
 
